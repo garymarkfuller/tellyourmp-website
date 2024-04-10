@@ -1,7 +1,5 @@
 ---
 layout: default
-title: "Tell Your MP Website - Home"
-permalink: /
 ---
 # Tell Your MP Website
 
