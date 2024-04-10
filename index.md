@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Tell Your MP Website - Home"
 permalink: /
 ---
