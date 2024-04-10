@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-| ## [About](about) |
+| ### [About](about) | ### [Journal](#journal)
 
 This site is a companion site for my final year project. It contains my journal and various forms used for information gathering from stakeholders.
 
-# Journal Entries
+# Journal Entries {#journal}
 
 [19/01/2024](2024-01-19)
 
