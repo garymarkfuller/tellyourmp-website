@@ -10,7 +10,9 @@ I've been a student, a teacher, a campaigner and a Councillor (pretty much in th
 
 ## My Project
 
-It appears that there is not a low-cost option for setting up an email your MP microsite and accessing MP data with minimum developer time. My employer provides this service via WordPress, which involves a £1,000+ in setup fees and £20pcm +VAT in hosting. We experience issues with WordPress caching and the server overhead of running a WordPress multisite instance for multiple clients, however. Other providers charge £1,000s for access to the data and incorporate it into their client’s sites. My employer wants to be able to provide the functionality via a SaaS model in which organisations can set up their site with a few clicks and thus only pay the hosting cost.
+It appears that there is not a low-cost option for setting up an email your MP microsite and accessing MP data with minimum developer time. My employer provides this service via WordPress, which involves a £1,000+ in setup fees and £20pcm +VAT in hosting. We experience issues with WordPress caching and the server overhead of running a WordPress multisite instance for multiple clients, however. 
+
+Other providers charge £1,000s for access to the data and incorporate it into their client’s sites. My employer wants to be able to provide the functionality via a SaaS model in which organisations can set up their site with a few clicks and thus only pay the hosting cost.
 
 ## This website
 
