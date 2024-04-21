@@ -7,6 +7,8 @@ This site is a companion site for my final year project. It contains my journal 
 
 # Journal Entries {#journal}
 
+[03/03/2024](2024-03-03)
+
 [02/03/2024](2024-03-02)
 
 [01/03/2024](2024-03-01)
