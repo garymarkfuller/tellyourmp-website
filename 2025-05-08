@@ -1,0 +1,9 @@
+---
+layout: post	
+author: Gary Fuller	
+title: 08/05/2024
+---
+
+Move the API integration forward in the priority list to reflect the fact the API call doesn't rely on user stories.
+Check if $_ENV is installed by default so I can store API credentials in an Environment Variable for security.
+Would a React frontend make more sense as it expands my JS knowledge, which fits with expanding on TM352? 
