@@ -1,0 +1,10 @@
+---
+layout: post
+author: Gary Fuller
+title: 02/08/2024
+---
+
+T3DD2024 Day 2.
+
+The SAST and the Furious talk - OWASP top ten. Static Application Security Testing tools like PHPStan. Semgrep - works with gitlab ci pipeline. Trivy for searching composer to prevent supply chain attacks.
+ 
