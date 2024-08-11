@@ -16,4 +16,4 @@ Other providers charge £1,000s for access to the data and incorporate it into t
 
 ## This website
 
-I'm required to keep a journal as part of the final year project. I started with a Word document, but it was proving unwieldy, so I decided to build a site. On top of building a site, I realised I needed a questionnaire to elicit user stories for the project, so this site contains said questionnaire. 
+I'm required to keep a journal as part of the final year project. I started with a Word document, but it was proving unwieldy, so I decided to build a site. On top of building a site, I realised I needed a questionnaire to elicit user stories for the project, so this site contains information to support said questionnaire. 
