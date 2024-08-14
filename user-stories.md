@@ -4,7 +4,7 @@ layout: default
 
 # User Stories
 
-The layout for these is based on the template provided in Scrum For Dummies, 2nd Edition (Layton and Morrow, 2018).
+The layout for these is based on the templates provided in Scrum For Dummies, 2nd Edition (Layton and Morrow, 2018) and Head First Agile (Stellman and Greene, 2017).
 
 ## As a campaigner
 
