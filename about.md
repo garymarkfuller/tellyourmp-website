@@ -6,7 +6,7 @@ layout: default
 
 ## Me
 
-I've been a student, a teacher, a campaigner and a Councillor (pretty much in that order, with some repetition). I currently build website themes and help out customers at Prater Raines, when I'm not studying for a degree in Computing or attending meetings.
+I've been a student, a teacher, a campaigner and a Councillor (pretty much in that order, with some repetition). I currently write code and help out customers at Prater Raines, when I'm not studying for a degree in Computing or attending meetings.
 
 ## My Project
 
