@@ -13,7 +13,7 @@ The features below are ones suggested during the course of development that coul
 + Let the email user edit the email.
 + Routes to use names/slugs instead of ids.
 + Conditional email depending on the Party.
-+ Let users use and pay for other mailing services.
++ Let admin users use and pay for other mailing services.
 + Support domain names per site.
 + Manage billing and paying invoices in the admin area.
 + Security/Validation/Sanitisation.
@@ -23,6 +23,10 @@ The features below are ones suggested during the course of development that coul
 + Sections using div tags.
 + Export data.
 + Dark mode logo.
++ Granular ok_to_email permissions per campaign.
++ Per site upload folder.
++ CSS overrides file hooked to site id class.
++ For loop for images to prevent need to use defined. 
 
 Other tasks that I need to complete to assist with potential new features are:
 
