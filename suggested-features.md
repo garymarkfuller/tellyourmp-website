@@ -26,7 +26,9 @@ The features below are ones suggested during the course of development that coul
 + Granular ok_to_email permissions per campaign.
 + Per site upload folder.
 + CSS overrides file hooked to site id class.
-+ For loop for images to prevent need to use defined. 
++ For loop for images to prevent need to use defined.
++ MP name and user address details in email.
++ EasyAdmin version of dark/light/auto.
 
 Other tasks that I need to complete to assist with potential new features are:
 
